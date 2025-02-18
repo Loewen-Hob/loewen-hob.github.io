@@ -8,6 +8,7 @@ author:     "hob"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
+    - paper reading
     - diffusion models
     - generative models
 ---
