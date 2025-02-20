@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "DDPM学习笔记"
+title:      "motion generation学习进度条（一） DDPM论文学习笔记"
 subtitle:   " \"入门第一篇\""
 date:       2025-02-17 12:00:00
 header-style: text
@@ -12,7 +12,7 @@ tags:
     - diffusion models
     - generative models
 ---
-
+[paper](https://arxiv.org/abs/2006.11239) | [苏神的blog](https://spaces.ac.cn/archives/9164)
 ### 学习笔记：去噪扩散概率模型（Denoising Diffusion Probabilistic Models）
 generative models中一个很基础的模型
 #### 1. 研究背景
