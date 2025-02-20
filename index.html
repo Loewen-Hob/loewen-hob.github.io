@@ -3,7 +3,11 @@ layout: page
 description: "「学点东西吧！」"
 ---
 
-{% for post in paginator.posts %}
+{% assign top_posts = site.posts | where: "top", true %}
+{% assign other_posts = site.posts | where_exp: "post", "post.top != true" %}
+{% assign all_posts = top_posts | concat: other_posts %}
+
+{% for post in all_posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">
