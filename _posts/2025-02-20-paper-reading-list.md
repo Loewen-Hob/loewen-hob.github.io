@@ -26,7 +26,7 @@ top: True
 - [x] [Flow Match](./read_paper/2025-02-20-motion-generation-fm.md) ｜ [参考笔记](https://www.dongaigc.com/a/flow-matching-emerging-generative-model)
 - [x] [MotionDiffuse]() ｜ [paper](https://arxiv.org/abs/2208.15001) ｜ [code](https://github.com/mingyuan-zhang/MotionDiffuse) ｜ [参考笔记](https://zhuanlan.zhihu.com/p/641606603)
 - [x] [MDM](./read_paper/) ｜ [paper](https://arxiv.org/abs/2209.14916) ｜ [code](https://github.com/GuyTevet/motion-diffusion-model)
-    - 代办    
+    - 待办    
         - 需调通代码，了解每一步的实现逻辑
 - [x] [MLD]() ｜ [paper](https://arxiv.org/abs/2212.04048) ｜ [code](https://github.com/chenfengye/motion-latent-diffusion)
 - [x] [MotionGPT]() ｜ [paper](https://arxiv.org/abs/2306.14795) ｜ [code](https://github.com/OpenMotionLab/MotionGPT)
