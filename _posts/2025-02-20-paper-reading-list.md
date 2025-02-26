@@ -41,11 +41,11 @@ top: True
 - [ ] [MDA]() ｜ [paper](https://arxiv.org/abs/2501.18729) ｜ [code](https://github.com/anthony-mendil/MoDiffAE)
 
 ### 精读系列
-- [ ] [motionllm]() ｜ [paper](https://arxiv.org/abs/2405.20340) ｜ [code](https://github.com/IDEA-Research/MotionLLM)
+- [x] [motionllm](./read_paper/2025-02-26-motion-generation-motionllm.md) ｜ [paper](https://arxiv.org/abs/2405.20340) ｜ [code](https://github.com/IDEA-Research/MotionLLM)
 - [ ] [Janus]() ｜ [paper](https://arxiv.org/abs/2410.13848) ｜ [code](https://github.com/deepseek-ai/Janus)
 - [ ] [JanusFlow]() ｜ [paper](https://arxiv.org/abs/2411.07975) ｜ [code](https://github.com/deepseek-ai/Janus)
 - [ ] [Janus-Pro]() ｜ [paper](https://github.com/deepseek-ai/Janus/blob/main/janus_pro_tech_report.pdf) ｜ [code](https://github.com/deepseek-ai/Janus)
-- [ ] [Image-Generation-CoT]() ｜ [paper](https://arxiv.org/abs/2501.13926) ｜ [code](https://github.com/ZiyuGuo99/Image-Generation-CoT)
+- [x] [Image-Generation-CoT]() ｜ [paper](https://arxiv.org/abs/2501.13926) ｜ [code](https://github.com/ZiyuGuo99/Image-Generation-CoT)
 
 # NLP
 ## 事件因果识别
